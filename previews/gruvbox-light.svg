@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+<clipPath id="c"><rect width="400" height="240" rx="8"/></clipPath><g clip-path="url(#c)">
+<rect width="400" height="240" fill="#f2e5bc"/>
+<rect width="44" height="240" fill="#bdae93"/>
+<rect x="6" y="8" width="32" height="32" rx="7" fill="#af3a03"/>
+<rect x="6" y="48" width="32" height="32" rx="7" fill="#d5c4a1"/>
+<rect x="44" width="120" height="240" fill="#ebdbb2"/>
+<rect x="44" width="120" height="34" fill="#d5c4a1"/>
+<text x="56" y="21" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="bold" fill="#504945" >Team</text>
+<text x="56" y="62" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#282828" ># news</text>
+<rect x="138" y="51" width="18" height="14" rx="7" fill="#af3a03"/>
+<text x="147" y="61.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="bold" fill="#fbf1c7" text-anchor="middle">2</text>
+<rect x="44" y="72" width="120" height="22" fill="#d5c4a1"/>
+<text x="56" y="87" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#665c54" ># general</text>
+<rect x="44" y="98" width="3" height="22" fill="#af3a03"/>
+<text x="56" y="113" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#282828" ># dev-team</text>
+<text x="56" y="139" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#665c54" ># random</text>
+<text x="56" y="165" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#665c54" ># design</text>
+<circle cx="62" cy="186" r="4" fill="#79740e"/>
+<text x="74" y="190" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#665c54" >alice</text>
+<circle cx="62" cy="204" r="4" fill="#b57614"/>
+<text x="74" y="208" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#665c54" >bob</text>
+<circle cx="62" cy="222" r="4" fill="#9d0006"/>
+<text x="74" y="226" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#665c54" >carol</text>
+<text x="176" y="22" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" fill="#504945" ># dev-team</text>
+<rect x="164" y="33" width="236" height="1" fill="#504945" opacity="0.18"/>
+<text x="176" y="58" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#504945" >alice</text>
+<text x="176" y="74" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#504945">Deploy finished. Notes in <tspan fill="#076678" text-decoration="underline">release-notes</tspan></text>
+<rect x="164" y="86" width="236" height="40" fill="#e6d19a"/>
+<text x="176" y="102" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#504945" >bob</text>
+<text x="176" y="118" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#504945"><tspan fill="#84386a" font-weight="bold">@larry</tspan> can you review this?</text>
+<rect x="176" y="141" width="212" height="1" fill="#d65d0e"/>
+<rect x="248" y="134" width="68" height="14" fill="#f2e5bc"/>
+<text x="282" y="145" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" font-weight="bold" fill="#d65d0e" text-anchor="middle">New Messages</text>
+<text x="176" y="168" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#504945" >carol</text>
+<text x="176" y="184" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#9d0006" >Build failed: timeout</text>
+<rect x="176" y="204" width="64" height="24" rx="5" fill="#6f6a0b"/>
+<text x="208" y="220" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" fill="#fbf1c7" text-anchor="middle">Send</text>
+</g></svg>
